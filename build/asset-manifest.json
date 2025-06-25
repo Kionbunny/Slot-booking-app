@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.accfcd7f.css",
+    "main.js": "/static/js/main.51b0edeb.js",
+    "static/media/patientcaring.png": "/static/media/patientcaring.267418d12d212ffb6710.png",
+    "static/media/heena.png": "/static/media/heena.f4df5d2cb39c2a0f8091.png",
+    "static/media/ankur.png": "/static/media/ankur.7175b18d399a5e7468e2.png",
+    "static/media/ahmad.png": "/static/media/ahmad.4be9a526920ab36493e2.png",
+    "static/media/our-families-banner.png": "/static/media/our-families-banner.6a13af3423245e59f73f.png",
+    "static/media/faqs-banner.jpg": "/static/media/faqs-banner.bce850cf2721d7914262.jpg",
+    "static/media/blog.png": "/static/media/blog.2d3fbdd0e50d24fe74d6.png",
+    "static/media/offer1.png": "/static/media/offer1.a3fdf8ab6fa5f05be4e9.png",
+    "static/media/offer2.png": "/static/media/offer2.0adb4a15aa98addb15da.png",
+    "static/media/lesley.png": "/static/media/lesley.53fa5291d47498421144.png",
+    "static/media/mobile.jpg": "/static/media/mobile.a2255b32a8df0c17cfb2.jpg",
+    "static/media/ahmad-stevens.png": "/static/media/ahmad-stevens.1b858051b9ee41c8b164.png",
+    "static/media/home.webp": "/static/media/home.cba1ac7abf7d03162d61.webp",
+    "static/media/cta.png": "/static/media/cta.92d5a17289d1081bab7f.png",
+    "static/media/hospitalicon.png": "/static/media/hospitalicon.6c1eadab549a3ee337b6.png",
+    "index.html": "/index.html",
+    "main.accfcd7f.css.map": "/static/css/main.accfcd7f.css.map",
+    "main.51b0edeb.js.map": "/static/js/main.51b0edeb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.accfcd7f.css",
+    "static/js/main.51b0edeb.js"
+  ]
+}
